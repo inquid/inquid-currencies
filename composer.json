@@ -1,0 +1,21 @@
+{
+    "name": "inquid/yii-inquid-currencies",
+    "description": "Module to handle currencies along the Inquid Infrastructure",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","currencies","pesos","dólares","dollars","money","inquid erp"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "inquid",
+            "email": "contact@inquid.co"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "inquid\\inquidcurrencies\\": ""
+        }
+    }
+}
