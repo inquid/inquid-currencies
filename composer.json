@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "inquid\\inquidcurrencies\\": ""
+            "inquid\\inquidcurrencies\\": "src"
         }
     }
 }
