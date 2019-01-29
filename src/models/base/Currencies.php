@@ -49,7 +49,7 @@ class Currencies extends ActiveRecord
      */
     public static function tableName()
     {
-        return '{{%components}}';
+        return '{{%currencies}}';
     }
 
     /**
